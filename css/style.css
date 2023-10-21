@@ -1,0 +1,41 @@
+*{
+    font-family: monospace; 
+}
+body {
+    font-size: 22px;
+}
+
+h1,
+h2 {
+    color: aqua;
+}
+
+h3 {
+    color: cornflowerblue;
+}
+
+h6 {
+    color: black;
+}
+
+p {
+    color: purple;
+}
+
+p span {
+    text-transform: uppercase;
+    background-color: goldenrod;
+}
+
+.highlight {
+    text-transform: uppercase;
+    background-color: brown;
+}
+
+.blue {
+    color: blue;
+}
+
+#second {
+    font-style: italic;
+}
